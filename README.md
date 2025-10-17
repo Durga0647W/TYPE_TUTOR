@@ -60,3 +60,4 @@ Type Tutor recreates the beloved MonkeyType experience as a standalone JavaFX de
 - Maven or Gradle (optional, for dependency management)
 
 ### Installation
+git clone https://github.com/Durga0647W/TYPE_TUTOR.git
